@@ -57,3 +57,6 @@ Currently expanding my skills in TypeScript, React ecosystem, and backend fundam
 - LinkedIn: https://www.linkedin.com/in/ira-zaitseva/
 - Email: ira.zajtseva89@gmail.com
 - Telegram: https://t.me/zajchello
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irina-zajtseva&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irina-zajtseva&layout=compact)
