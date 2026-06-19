@@ -1,60 +1,30 @@
-# 👋 Hi, I'm Irina Zaitseva
+## 👋 Hi, I'm Ira Zaitseva
 
-💻 Junior / Trainee Full-Stack Developer | JavaScript (ES6+) | React | Node.js
+🎵 **Founder & Builder — I build AI-powered music apps end-to-end, solo.**
 
-Fullstack developer with hands-on experience in building responsive web apps and integrating REST APIs. 
-I focus on clean UI, reusable components, and team collaboration (Git/GitHub, Agile/Scrum). 
-Currently expanding my skills in TypeScript, React ecosystem, and backend fundamentals.
+I take products from blank repo to shipped app — auth, AI pipelines, the whole stack — and I learn by shipping, not by watching tutorials.
 
 ---
 
-## 🧰 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+### 🛠 Tech Stack
+`Next.js` · `TypeScript` · `React` · `Node.js` · `MongoDB` · `REST & AI APIs` · `Web Audio API` · `Git`
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 What I'm Building
 
-### 🐾 Hut of Paws
-🔗 GitHub repository: https://github.com/irina-zajtseva/hut-of-paws  
-📝 Project description: Animal adoption / shelter web app  
-🧰 Tech stack: React, TypeScript, REST API, Vite, Axios, Git  
-👤 Role: Scrum Master / Frontend Developer  
-- Implemented : modal window, and form with validation.  
-- Integrated API requests and UI states (loading/error/empty).  
-- Coordinated tasks and team workflow.
+**🎵 MelodySnap — AI Songwriting Companion**
+Hum a melody, pick a mood, get back song ideas + AI-generated instrumental accompaniment. Built solo, end-to-end: hand-rolled JWT auth with Google OAuth, per-user & global usage limits, AI generation with polling-based status, and a mood/arrangement engine.
+`Next.js · TypeScript · Node.js · MongoDB · AI APIs`
 
----
-
-### ☕ Coffee Joy
-🔗 GitHub repository: https://github.com/irina-zajtseva/coffee-joy  
-📝 Project description: Responsive landing page for a specialty coffee brand  
-🧰 Tech stack: HTML5, CSS3, JavaScript  
-👤 Role: Scrum Master / Frontend Developer  
-- Built responsive header.  
-- Maintained clean layout and cross-device styling.
-- Coordinated tasks and team workflow.
+**🎸 ChordSnap — Chord Recognition Web App**
+A PWA that recognizes songs and generates guitar chords, with a music-theory engine I wrote from scratch (transpose, capo, chord simplification). Currently extending it with a from-scratch implementation of the Shazam audio-fingerprinting algorithm in TypeScript.
+`Next.js · TypeScript · Web Audio API · custom DSP`
 
 ---
 
-## 🌍 Languages
-- English — Advanced (C1)
-- Ukrainian — Native
-- Russian - Native
-- Hebrew — Conversational (B1)
+### 🌱 Also
+Background in economics & marketing · multilingual · I write songs on guitar for fun. I think about products as a whole — user, business, and code.
 
----
-
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/ira-zaitseva/
-- Email: ira.zajtseva89@gmail.com
-- Telegram: https://t.me/zajchello
+📫 [LinkedIn](https://www.linkedin.com/in/ira-zaitseva) · ira.zajtseva89@gmail.com
 
